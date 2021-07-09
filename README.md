@@ -14,7 +14,7 @@ A Multi Tool That *Hopefully* Does All Your Discord Needs!
 
 - Step 1:    Download the .exe file
 - Step 2:    Run It
-- Step 6:    That's It !
+- Step 3:    That's It !
 
 - ✨Magic!✨
 
