@@ -3,10 +3,10 @@ A Multi Tool That *Hopefully* Does All Your Discord Needs!
 ## What It Does
  
 
-- Token Logs *WIP*
+- Token Logs   ||*WIP*||
 - Gives Info On An Ip
 - Generates Discord Tokens
-- Raid Tool *WIP*
+- Raid Tool    ||*WIP*||
 - Discord Token Info
 - Nitro Code Generator
 
