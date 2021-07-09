@@ -19,7 +19,7 @@ A Multi Tool That *Hopefully* Does All Your Discord Needs!
 - ✨Magic!✨
 
 
-Updates Coming Soon!
+Updates & Source Coming Soon!
 
 
 
