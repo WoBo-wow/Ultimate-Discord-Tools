@@ -20,6 +20,7 @@ A Multi Tool That *Hopefully* Does All Your Discord Needs!
 
 
 Updates & Source Coming Soon!
+so might be buggy!
 
 
 
